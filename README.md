@@ -9,6 +9,7 @@ The Exodus Stealer Proof of Concept is a pentesting tool designed to demonstrate
 -   Extracts mnemonic data from the Exodus wallet
 -   Decrypts mnemonic data using a passphrase
 -   Sends notifications to Discord, Telegram, or a TCP server based on configuration
+![image](https://github.com/user-attachments/assets/ef7189d8-e3a5-4788-bed1-466745cf5d49)
 
 ## Installation
 
