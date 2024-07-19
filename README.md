@@ -1,6 +1,6 @@
 [Exodus](https://www.exodus.com/) | [Electron Injection](https://github.com/tintinweb/electron-inject/)
 
-# Exodus Seed Stealer Proof of Concept
+# Exodus Mnemonic Stealer
 
 ## Overview
 
