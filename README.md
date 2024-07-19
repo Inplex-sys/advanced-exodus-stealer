@@ -19,7 +19,7 @@ The Exodus Stealer Proof of Concept is a pentesting tool designed to demonstrate
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Inplex-sys/exodus-wallet-stealer.git
+    git clone https://github.com/Inplex-sys/advanced-exodus-stealer.git
     ```
 2. Install dependencies:
     ```bash
