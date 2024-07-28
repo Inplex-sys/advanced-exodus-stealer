@@ -1,3 +1,7 @@
+```diff
+- Source is not public for the moment
+```
+
 ## Exodus Mnemonic Stealer Proof Of Concept
 ![Untitled 10](https://github.com/user-attachments/assets/42917c15-8b0e-46ee-bbfd-be964e12eb6e)
 
