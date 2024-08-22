@@ -1,3 +1,5 @@
+<a href="mailto:Inplex-sys@protonmail.ch">Mail</a> | <a href="https://discord.com/users/212966578680102913">Discord</a>
+
 ```diff
 - Source is not public for the moment
 ```
